@@ -35,3 +35,6 @@ Feel free to drop me a message here on **[GitHub](https://github.com/Therajat14)
 ### ⚡ **Fun Fact**
 
 When I’m not coding, you’ll find me playing games 🎮!
+
+
+![Visitor Count](https://profile-counter.glitch.me/Therajat14/count.svg)

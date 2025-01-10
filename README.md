@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a full-stack web developer, currently learning the MER
 
 ## 🗣️ Top Languages
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Therajat14)](https://github.com/Therajat14/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Therajat14&layout=compact)](https://github.com/Therajat14/github-readme-stats)
 
 ## 🚀 My Projects
 

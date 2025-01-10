@@ -1,49 +1,41 @@
- # # Hi, I'm Rajat Singh [(@Therajat14)](https://github.com/Therajat14) 👋
+# 👋 Hi, I'm Rajat Singh
 
-I’m passionate about **learning new technologies** and exploring **innovative ideas**. Currently, I’m focused on advancing my skills in **React.js** to kickstart my journey in web development. I’m actively looking to collaborate on **small web projects** to gain practical experience and grow my portfolio.
+Welcome to my GitHub! I'm a full-stack web developer, currently learning MERN stack and passionate about building impactful software. I am also exploring AI development to diversify my skills.
 
----
+## 💻 Technologies & Tools
 
-### 🛠️ **Tech Stack**
+- **Languages**: JavaScript, HTML, CSS, SQL, C#
+- **Frameworks & Libraries**: React, Express.js, Node.js, MongoDB
+- **Tools**: Git, GitHub, Visual Studio Code, MongoDB, JWT, .NET
+- **Databases**: MongoDB, MySQL
 
-<div align="center">
-  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Express&logoColor=white)
-![React.js](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+## 📈 GitHub Stats
 
-</div>
+![Rajat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Therajat14&show_icons=true&count_private=true&hide=prs&theme=radical)
 
----
+## 🚀 My Projects
 
-### 🌱 **Current Learning Path**
+Here are a few projects that I am working on or have worked on:
 
-- **React.js**
-- **MongoDB**
+- **[Password Generator Web App](https://github.com/Therajat14/Password-Generator)**
+  - A web app that generates secure passwords based on user preferences.
+- **[Course-Selling App](https://github.com/Therajat14/Course-Selling-App)**
+  - A full-stack project with JWT authentication, allowing users to buy and sell courses online.
+- **[To-Do App](https://github.com/Therajat14/Todo-App)**
+  - A task management app built using React and state management.
 
----
+## 🤖 AI Projects
 
-### 📫 **How to Reach Me**
+- **[AI-Driven App Ideas](https://github.com/Therajat14/AI-App-Ideas)**
+  - An exploration of AI-based app ideas that can shape the future.
 
-Feel free to connect with me via **[GitHub](https://github.com/Therajat14)**. I’m always open to discussions and collaborations.
+## 📫 Let's Connect
 
----
+- 📱 **Phone**: 7579453629
+- 📧 **Email**: rajat.singh@example.com
+- 🌐 **Visit My Profile**: [Therajat14](https://github.com/Therajat14)
 
-### ⚡ **Fun Fact**
+## 🔗 Other Links
 
-When I’m not coding, you’ll find me enjoying some games 🎮!
-
----
-
-<div align="center">
-
-### 📊 **Visitor Count**
-
-![Visitor Count](https://profile-counter.glitch.me/Therajat14/count.svg)
-
-</div>
+- **LinkedIn**: [linkedin.com/in/rajatsingh](https://www.linkedin.com/in/rajatsingh)
+- **Instagram**: [@rajat_dev](https://www.instagram.com/rajat_dev)

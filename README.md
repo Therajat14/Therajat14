@@ -11,11 +11,11 @@ Welcome to my GitHub! I'm a full-stack web developer, currently learning the MER
 
 ## 📈 GitHub Stats
 
-![Rajat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Therajat14&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Rajat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Therajat14&show_icons=true&count_private=true&hide=prs&theme=dark)
 
 ## 🗣️ Top Languages
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Therajat14&layout=compact)](https://github.com/Therajat14/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Therajat14&layout=compact&theme=dark)](https://github.com/Therajat14/github-readme-stats)
 
 ## 🚀 My Projects
 

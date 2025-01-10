@@ -1,13 +1,22 @@
 # 👋 Hi, I'm Rajat Singh
 
-Welcome to my GitHub! I'm a full-stack web developer, currently learning MERN stack and passionate about building impactful software. I am also exploring AI development to diversify my skills.
+Welcome to my GitHub! I'm a full-stack web developer, currently learning the MERN stack and passionate about building impactful software. I am also exploring AI development to diversify my skills.
 
 ## 💻 Technologies & Tools
 
-- **Languages**: JavaScript, HTML, C++, C, CSS, SQL, 
+- **Languages**: JavaScript, HTML, C++, C, CSS, SQL
 - **Frameworks & Libraries**: React, Express.js, Node.js, MongoDB
 - **Tools**: Git, GitHub, Visual Studio Code, MongoDB, JWT, .NET
 - **Databases**: MongoDB, MySQL
+
+## 🌍 Languages Used
+
+Here are some languages that I frequently use in my projects:
+
+- **JavaScript**: For full-stack development (Node.js, React)
+- **HTML/CSS**: For building user interfaces and styling
+- **C++ & C**: For problem-solving and algorithm implementation
+- **SQL**: For managing databases and writing queries
 
 ## 📈 GitHub Stats
 
@@ -32,7 +41,7 @@ Here are a few projects that I am working on or have worked on:
 ## 📫 Let's Connect
 
 - 📱 **Phone**: XXXX   XXXX   XXXX
-- 📧 **Email**: rajat.code14@gamil.com
+- 📧 **Email**: rajat.code14@gmail.com
 - 🌐 **Visit My Profile**: [Therajat14](https://github.com/Therajat14)
 
 ## 🔗 Other Links

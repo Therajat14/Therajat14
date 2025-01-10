@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a full-stack web developer, currently learning MERN st
 
 ## 💻 Technologies & Tools
 
-- **Languages**: JavaScript, HTML, CSS, SQL, C#
+- **Languages**: JavaScript, HTML, C++, C, CSS, SQL, 
 - **Frameworks & Libraries**: React, Express.js, Node.js, MongoDB
 - **Tools**: Git, GitHub, Visual Studio Code, MongoDB, JWT, .NET
 - **Databases**: MongoDB, MySQL
@@ -31,8 +31,8 @@ Here are a few projects that I am working on or have worked on:
 
 ## 📫 Let's Connect
 
-- 📱 **Phone**: 7579453629
-- 📧 **Email**: rajat.singh@example.com
+- 📱 **Phone**: XXXX   XXXX   XXXX
+- 📧 **Email**: rajat.code14@gamil.com
 - 🌐 **Visit My Profile**: [Therajat14](https://github.com/Therajat14)
 
 ## 🔗 Other Links

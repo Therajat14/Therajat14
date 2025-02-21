@@ -25,8 +25,9 @@ Here are a few projects that I am working on or have worked on:
   - A web app that generates secure passwords based on user preferences.
 - **[Course-Selling App](https://github.com/Therajat14/Course-Selling-App)**
   - A full-stack project with JWT authentication, allowing users to buy and sell courses online.
-- **[To-Do App](https://github.com/Therajat14/Todo-App)**
-  - A task management app built using React and state management.
+- **[Grocery List App](https://grocery-list-full-stack-git-frontend-therajat14s-projects.vercel.app/)**
+  - A full-stack grocery list management app built with React.  (only fronend view here)
+
 
 ## 🤖 AI Projects
 

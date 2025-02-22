@@ -35,12 +35,10 @@ Here are a few projects that I am working on or have worked on:
   - An exploration of AI-based app ideas that can shape the future.
 
 ## 📫 Let's Connect
-
-- 📱 **Phone**: XXXX   XXXX   XXXX
 - 📧 **Email**: rajat.code14@gmail.com
 - 🌐 **Visit My Profile**: [Therajat14](https://github.com/Therajat14)
 
 ## 🔗 Other Links
 
-- **LinkedIn**: [linkedin.com/in/rajatsingh](https://www.linkedin.com/in/rajatsingh)
-- **Instagram**: [@rajat_dev](https://www.instagram.com/rajat_dev)
+- **LinkedIn**: [linkedin.com/in/rajatsingh](https://www.linkedin.com/in/rajatcode14)
+- **Instagram**: [@rajat_dev](https://www.instagram.com/therajat14)

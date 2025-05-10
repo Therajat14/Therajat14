@@ -1,59 +1,61 @@
-👋 Hi, I'm Rajat Singh
+# 👋 Hi, I'm Rajat Singh
 
-Welcome to my GitHub! I'm a full-stack web developer focused on building impactful software using the MERN stack. I love turning ideas into efficient, modern web applications.
+I'm a **Full-Stack Web Developer** specializing in the **MERN stack**. I enjoy building scalable web applications with clean, modern interfaces and efficient backend systems.
 
-💻 Technologies & Tools
+---
 
-Languages: JavaScript, C++, C, SQL
+## 💻 Tech Stack
 
-Frameworks & Libraries: React, Node.js, Express.js, MongoDB, Tailwind CSS
+- **Languages**: JavaScript, C++, C, SQL  
+- **Frameworks & Libraries**: React, Node.js, Express.js, MongoDB, Tailwind CSS  
+- **Tools**: Git, GitHub, VS Code, Postman, JWT  
 
-Tools: Git, GitHub, Visual Studio Code, JWT, Postman
+---
 
-📊 GitHub Stats
+## 🚀 Projects
 
+### [TinyLink](https://github.com/Therajat14/TinyLink)  
+Efficient URL shortener with instant redirects and a clean UI.  
+*React · Node.js · MongoDB · Tailwind CSS*
 
+---
 
+### [TextBridge (Clip Cloud)](https://github.com/Therajat14/Clip-Cloud---Anonymous-Share-By-just-6-digit-Code)  
+Cross-device text sharing with secure 6-digit codes.  
+*React · Node.js · Express · MongoDB*
 
+---
 
-🚀 My Projects
+### [Feedback Sentiment Analyzer](https://github.com/Therajat14/Feedback-Sentiment-Analyzer-App)  
+Analyze and visualize user feedback using sentiment analysis.  
+*React · MongoDB · NLP · Charts*
 
-Here are some of the key projects I’ve worked on:
+---
 
-🔗 TinyLink
+### [A2Z DSA Sheet](https://github.com/Therajat14/A2Z-DSA-Sheet)  
+Organized C++ DSA problems for learning and interview prep.  
+*C++ · Algorithms · Data Structures*
 
-A modern and efficient URL shortener built with React, Node.js, and MongoDB.🛠️ MERN Stack · Tailwind CSS · URL Redirects
+---
 
-✍️ TextBridge (Clip Cloud)
+### [All Projects – Beginner to Expert](https://github.com/Therajat14/All-Projects---Beginner-to-Expert)  
+Complete journey of projects organized by complexity.  
+*JavaScript · React · MongoDB*
 
-Cross-device text-sharing app using 6-digit codes to anonymously copy/paste text between devices.🛠️ React · Node.js · Express · MongoDB
+---
 
-📊 Feedback Sentiment Analyzer
+### [Course Selling App](https://github.com/Therajat14/Course-Selling-App)  
+Full-stack learning platform with authentication and admin control.  
+*Node.js · React · MongoDB · JWT*
 
-A full-stack app to collect user feedback and visualize sentiment analysis results.🛠️ React · Express · MongoDB · NLP APIs · Charting Libraries
+---
 
-🧠 A2Z DSA Sheet
+## 📫 Connect with Me
 
-Step-by-step DSA sheet organized into folders with problems and boilerplate code for C++ learners.🛠️ C++ · DSA · Practice Sets
+- 📧 [rajat.code14@gmail.com](mailto:rajat.code14@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rajatcode14)  
+- 🧑‍💻 [GitHub](https://github.com/Therajat14)
 
-🧩 All Projects: Beginner to Expert
+---
 
-A curated collection of my full-stack projects, sorted by skill level.🛠️ JavaScript · React · Node.js · MongoDB
-
-📚 Course Selling App
-
-A full-stack Udemy-style course platform with authentication, payments, and admin control.🛠️ Node.js · Express · MongoDB · JWT · React
-
-
-
-📫 Let's Connect
-
-📧 Email: rajat.code14@gmail.com
-
-💼 LinkedIn: linkedin.com/in/rajatsingh
-
-🧑‍💻 GitHub: Therajat14
-
-📷 Instagram: @therajat14
-
-⭐ Thanks for visiting my profile! Feel free to check out my work and connect with me.
+Thanks for visiting. Feel free to explore my work!

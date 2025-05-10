@@ -15,17 +15,15 @@ I'm a **Full-Stack Web Developer** specializing in the **MERN stack**. I enjoy b
 ## 🚀 Projects
 
 | [TinyLink](https://github.com/Therajat14/TinyLink) | [TextBridge (Clip Cloud)](https://github.com/Therajat14/Clip-Cloud---Anonymous-Share-By-just-6-digit-Code) |
-| -------------------------------------------------- | ------------------------------------------------------------- |
+| -------------------------------------------------- | --------------------------------------------------------------- |
 | Efficient URL shortener with instant redirects and a clean UI. | Cross-device text sharing with secure 6-digit codes. |
 | *React · Node.js · MongoDB · Tailwind CSS* | *React · Node.js · Express · MongoDB* |
-
 | [Feedback Sentiment Analyzer](https://github.com/Therajat14/Feedback-Sentiment-Analyzer-App) | [A2Z DSA Sheet](https://github.com/Therajat14/A2Z-DSA-Sheet) |
-| -------------------------------------------------- | ----------------------------------------------------------- |
+| ------------------------------------------------------------- | ------------------------------------------------------------ |
 | Analyze and visualize user feedback using sentiment analysis. | Organized C++ DSA problems for learning and interview prep. |
 | *React · MongoDB · NLP · Charts* | *C++ · Algorithms · Data Structures* |
-
 | [All Projects – Beginner to Expert](https://github.com/Therajat14/All-Projects---Beginner-to-Expert) | [Course Selling App](https://github.com/Therajat14/Course-Selling-App) |
-| -------------------------------------------------- | ----------------------------------------------------------- |
+| --------------------------------------------------------------- | --------------------------------------------------------------- |
 | Complete journey of projects organized by complexity. | Full-stack learning platform with authentication and admin control. |
 | *JavaScript · React · MongoDB* | *Node.js · React · MongoDB · JWT* |
 

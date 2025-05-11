@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rajat Singh
+#  Hi, I'm Rajat
 
 Welcome to my GitHub! I'm a full-stack web developer, currently learning the MERN stack and passionate about building impactful software. I am also exploring AI development to diversify my skills.
 

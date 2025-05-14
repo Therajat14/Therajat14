@@ -9,12 +9,6 @@ I'm a full-stack web developer, currently learning the MERN stack and passionate
 - **Tools**: Git, GitHub, Visual Studio Code, MongoDB, JWT, .NET
 - **Databases**: MongoDB, MySQL
 
-## 🗣️ Top Languages
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Therajat14&layout=compact&theme=radical)](https://github.com/Therajat14/github-readme-stats)
-
-## 🚀 Featured Projects
-
 Here are some of the key projects that showcase my skills in full-stack development and problem-solving:
 
 ### 🌐 [TinyLink](https://github.com/Therajat14/TinyLink)

@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rajat Singh</h1>
 <h3 align="center">A Passionate Full Stack Developer | MERN Stack | Tailwind | C++</h3>
 
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="225" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
 

@@ -1,6 +1,6 @@
 #  Hi, I'm Rajat
 
-Welcome to my GitHub! I'm a full-stack web developer, currently learning the MERN stack and passionate about building impactful software. I am also exploring AI development to diversify my skills.
+I'm a full-stack web developer, currently learning the MERN stack and passionate about building impactful software. I am also exploring AI development to diversify my skills.
 
 ## 💻 Technologies & Tools
 
@@ -8,10 +8,6 @@ Welcome to my GitHub! I'm a full-stack web developer, currently learning the MER
 - **Frameworks & Libraries**: React, Express.js, Node.js, MongoDB
 - **Tools**: Git, GitHub, Visual Studio Code, MongoDB, JWT, .NET
 - **Databases**: MongoDB, MySQL
-
-## 📈 GitHub Stats
-
-![Rajat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Therajat14&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## 🗣️ Top Languages
 
@@ -42,17 +38,3 @@ A structured and folder-based compilation of **Data Structures and Algorithms** 
 ### 🧩 [All Projects — Beginner to Expert](https://github.com/Therajat14/All-Projects---Beginner-to-Expert)
 A categorized collection of all my projects, from beginner to expert level. Covers a range of skills in **frontend**, **backend**, and **full-stack** development.  
 🛠️ _JavaScript · React · Node.js · HTML · CSS_
-
----
-
-
-
-## 📫 Let's Connect
-- 📧 **Email**: rajat.code14@gmail.com
-- 🌐 **Visit My Profile**: [Therajat14](https://github.com/Therajat14)
-
-## 🔗 Other Links
-
-- **LinkedIn**: [linkedin.com/in/rajatsingh](https://www.linkedin.com/in/rajatcode14)
-- **Instagram**: [@rajat_dev](https://www.instagram.com/therajat14)
-

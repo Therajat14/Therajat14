@@ -47,29 +47,3 @@
 
 ---
 
-### 🌐 Let's Connect!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/rajatcode14/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-Rajat%20Singh-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="mailto:rajat.code14@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-rajat.code14@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/therajat14" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://www.instagram.com/therajat14/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/-@therajat14-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
-### ✨ Fun Fact
-
-> “I break stuff to fix it better. Code, coffee, and curiosity fuel me.”
-
----
-
-<!-- Show some ❤️ by starring my repositories! -->

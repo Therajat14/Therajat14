@@ -1,49 +1,52 @@
-<!-- Rajat Singh's GitHub Profile README -->
+# Rajat Singh
 
-<h1 align="center">Hi 👋, I'm Rajat Singh</h1>
-<h3 align="center">A Passionate Full Stack Developer | MERN Stack | Tailwind | C++</h3>
-<div style="height: 10px;"></div>
+Full Stack Developer specializing in JavaScript and the MERN stack.
 
-<img align="right" alt="Coding" width="225" style="margin-top: 10px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+I build web applications, REST APIs, and backend systems with a focus on clean, maintainable code and practical problem solving.
 
+## Skills
 
----
+**Languages:**  
+JavaScript, Python, C++, SQL
 
-- 🌱 I’m currently diving deeper into **AI, Full Stack Development, and System Design**
-- 🧠 Tech Stack Ninja: **MERN | Tailwind | C++ | Node.js | Express | MongoDB**
-- 🚀 I build practical apps that solve real-world problems.
-- 📫 Reach me at: **[rajat.code14@gmail.com](mailto:rajat.code14@gmail.com)**
-- 🧠 Always learning. Forever building.
+**Frontend:**  
+React.js, HTML5, CSS3, Tailwind CSS, Vite
 
----
+**Backend:**  
+Node.js, Express.js, REST APIs, JWT
 
-### 🛠️ Tech Stack
+**Database:**  
+MongoDB, Mongoose, SQL
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express" />
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38bdf8?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-</p>
+**Tools & Platforms:**  
+Git, GitHub, Docker, Vercel, Netlify, AWS, Hostinger
 
----
+## Projects
 
-### 📊 GitHub Stats
+### Attend Easy
+Full-stack attendance management system using QR-based attendance.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=therajat14&show_icons=true&theme=radical" width="48%" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therajat14&layout=compact&theme=radical" width="48%" />
-</p>
+### ClipCloud
+File-sharing application for uploading and sharing files.
 
-<p align="center">
+### Feedback & Sentiment Analyzer
+Application for analyzing and classifying user feedback sentiment.
 
-</p>
+### RESTful Bookstore API
+REST API with authentication, CRUD operations, and database integration.
 
----
+## Problem Solving
 
+- 250+ LeetCode problems solved
+- Data Structures and Algorithms
+- Problem solving with C++ and Python
+
+## Education
+
+**Master of Computer Applications (MCA)**  
+Uttaranchal University
+
+## Links
+
+[GitHub](https://github.com/therajat14)  
+[LinkedIn](https://www.linkedin.com/)
